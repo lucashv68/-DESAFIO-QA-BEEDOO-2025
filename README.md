@@ -1,7 +1,7 @@
 ﻿# -DESAFIO-QA-BEEDOO-2025
 
 
-#- Descrição do projeto
+ Descrição do projeto
 
 Teste prático para avaliar conhecimentos em QA Manual, com foco em criação de casos de teste, documentação e identificação de bugs no módulo “Cadastrar Curso” da aplicação Beedoo Challenge.
 
@@ -22,9 +22,9 @@ Planilha de Casos de Teste – QA BEEDOO 2025
 
 https://docs.google.com/spreadsheets/d/1SPHjaxdSwmZjaaOq6CipmgmNKK1gUBwmxIaEW_cqaIE/edit?usp=drive_link
 
-Evidências em Vídeo (Google Drive)
-
 Relatório de Bugs em PDF
+
+Evidências em Vídeo (Google Drive)
 
 ## Decisões tomadas para criar a User Story
 
@@ -33,6 +33,7 @@ Relatório de Bugs em PDF
 - **Prioridade:** Considerada alta, pois o cadastro de cursos é uma funcionalidade central do sistema.  
 - **Técnicas aplicadas:** Usei análise exploratória e mapeamento de fluxo para compreender como o usuário interage com o sistema e identificar pontos de validação.  
 - **Objetivo da história:** Garantir que o usuário possa cadastrar um curso de forma simples e intuitiva, sem erros de fluxo ou campos obrigatórios faltando.
+
 
 
 
