@@ -13,6 +13,8 @@ Execução dos testes e registro de evidências
 
 Relatório de bugs 
 
+Evidências em Vídeo
+
 
 
 ## Links importantes
@@ -38,6 +40,7 @@ https://drive.google.com/drive/folders/1wEaOPaPhk4Ir8HnFA3FuCKkMdjk6oqIa?usp=dri
 - **Prioridade:** Considerada alta, pois o cadastro de cursos é uma funcionalidade central do sistema.  
 - **Técnicas aplicadas:** Usei análise exploratória e mapeamento de fluxo para compreender como o usuário interage com o sistema e identificar pontos de validação.  
 - **Objetivo da história:** Garantir que o usuário possa cadastrar um curso de forma simples e intuitiva, sem erros de fluxo ou campos obrigatórios faltando.
+
 
 
 
