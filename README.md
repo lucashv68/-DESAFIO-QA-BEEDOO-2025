@@ -24,7 +24,12 @@ https://docs.google.com/spreadsheets/d/1SPHjaxdSwmZjaaOq6CipmgmNKK1gUBwmxIaEW_cq
 
 Relatório de Bugs em PDF
 
+https://drive.google.com/file/d/10I1eaVn41ub_3bhrRCV24Y3zaTb71cDh/view?usp=drive_link
+
 Evidências em Vídeo (Google Drive)
+
+https://drive.google.com/drive/folders/1wEaOPaPhk4Ir8HnFA3FuCKkMdjk6oqIa?usp=drive_link
+
 
 ## Decisões tomadas para criar a User Story
 
@@ -33,6 +38,7 @@ Evidências em Vídeo (Google Drive)
 - **Prioridade:** Considerada alta, pois o cadastro de cursos é uma funcionalidade central do sistema.  
 - **Técnicas aplicadas:** Usei análise exploratória e mapeamento de fluxo para compreender como o usuário interage com o sistema e identificar pontos de validação.  
 - **Objetivo da história:** Garantir que o usuário possa cadastrar um curso de forma simples e intuitiva, sem erros de fluxo ou campos obrigatórios faltando.
+
 
 
 
